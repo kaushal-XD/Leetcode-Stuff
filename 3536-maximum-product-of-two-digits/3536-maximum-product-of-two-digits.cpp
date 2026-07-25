@@ -1,15 +1,18 @@
 class Solution {
 public:
     int maxProduct(int n) {
-        priority_queue<int> pq;
+        int d;
+        int a = 0;
+        int m = 0;
         while(n){
-            pq.push(n%10);
+            d = n%10;
+            if (d > m ) {
+            a = m;
+            m = d;
+            }
+            else if(d > a) a = d;
             n /= 10;
         }
-        int ans = 1;
-        ans *= pq.top();
-        pq.pop();
-        ans *= pq.top();
-        return ans;
+        return a*m;
     }
 };
