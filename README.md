@@ -79,4 +79,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/kaushal-XD/Leetcode-Stuff/tree/master/0003-longest-substring-without-repeating-characters) |
+## Database
+|  |
+| ------- |
+| [1757-recyclable-and-low-fat-products](https://github.com/kaushal-XD/Leetcode-Stuff/tree/master/1757-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
