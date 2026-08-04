@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/kaushal-XD/Leetcode-Stuff/tree/master/0001-two-sum) |
 | [0045-jump-game-ii](https://github.com/kaushal-XD/Leetcode-Stuff/tree/master/0045-jump-game-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/kaushal-XD/Leetcode-Stuff/tree/master/0628-maximum-product-of-three-numbers) |
+| [0994-rotting-oranges](https://github.com/kaushal-XD/Leetcode-Stuff/tree/master/0994-rotting-oranges) |
 | [1301-number-of-paths-with-max-score](https://github.com/kaushal-XD/Leetcode-Stuff/tree/master/1301-number-of-paths-with-max-score) |
 | [1331-rank-transform-of-an-array](https://github.com/kaushal-XD/Leetcode-Stuff/tree/master/1331-rank-transform-of-an-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/kaushal-XD/Leetcode-Stuff/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0994-rotting-oranges](https://github.com/kaushal-XD/Leetcode-Stuff/tree/master/0994-rotting-oranges) |
 | [1301-number-of-paths-with-max-score](https://github.com/kaushal-XD/Leetcode-Stuff/tree/master/1301-number-of-paths-with-max-score) |
 ## Math
 |  |
@@ -86,4 +88,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1757-recyclable-and-low-fat-products](https://github.com/kaushal-XD/Leetcode-Stuff/tree/master/1757-recyclable-and-low-fat-products) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0994-rotting-oranges](https://github.com/kaushal-XD/Leetcode-Stuff/tree/master/0994-rotting-oranges) |
 <!---LeetCode Topics End-->
