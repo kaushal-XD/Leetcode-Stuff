@@ -1,8 +1,7 @@
 class Solution {
 public:
     int m,n;
-    vector<int> dr = {1,0,-1,0};
-    vector<int> dc = {0,1,0,-1};
+    
 
     vector<vector<int>> pacificAtlantic(vector<vector<int>>& heights) {
         m = heights.size();
@@ -31,6 +30,9 @@ public:
 
     void dfs(int x , int y , vector<vector<int>>& heights , vector<vector<bool>>& visited){
         visited[x][y] = true;
+
+        vector<int> dr = {1,0,-1,0};
+        vector<int> dc = {0,1,0,-1};
 
         for(int i = 0 ; i < 4 ; i++){
             int nr = x + dr[i];
