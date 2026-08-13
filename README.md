@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/kaushal-XD/Leetcode-Stuff/tree/master/0001-two-sum) |
 | [0045-jump-game-ii](https://github.com/kaushal-XD/Leetcode-Stuff/tree/master/0045-jump-game-ii) |
+| [0200-number-of-islands](https://github.com/kaushal-XD/Leetcode-Stuff/tree/master/0200-number-of-islands) |
 | [0628-maximum-product-of-three-numbers](https://github.com/kaushal-XD/Leetcode-Stuff/tree/master/0628-maximum-product-of-three-numbers) |
 | [0994-rotting-oranges](https://github.com/kaushal-XD/Leetcode-Stuff/tree/master/0994-rotting-oranges) |
 | [1301-number-of-paths-with-max-score](https://github.com/kaushal-XD/Leetcode-Stuff/tree/master/1301-number-of-paths-with-max-score) |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/kaushal-XD/Leetcode-Stuff/tree/master/0200-number-of-islands) |
 | [0994-rotting-oranges](https://github.com/kaushal-XD/Leetcode-Stuff/tree/master/0994-rotting-oranges) |
 | [1301-number-of-paths-with-max-score](https://github.com/kaushal-XD/Leetcode-Stuff/tree/master/1301-number-of-paths-with-max-score) |
 ## Math
@@ -94,5 +96,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/kaushal-XD/Leetcode-Stuff/tree/master/0200-number-of-islands) |
 | [0994-rotting-oranges](https://github.com/kaushal-XD/Leetcode-Stuff/tree/master/0994-rotting-oranges) |
+## Depth-First Search
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/kaushal-XD/Leetcode-Stuff/tree/master/0200-number-of-islands) |
+## Union-Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/kaushal-XD/Leetcode-Stuff/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
