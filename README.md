@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0177-nth-highest-salary](https://github.com/kaushal-XD/Leetcode-Stuff/tree/master/0177-nth-highest-salary) |
 | [0178-rank-scores](https://github.com/kaushal-XD/Leetcode-Stuff/tree/master/0178-rank-scores) |
 | [1757-recyclable-and-low-fat-products](https://github.com/kaushal-XD/Leetcode-Stuff/tree/master/1757-recyclable-and-low-fat-products) |
+| [1978-employees-whose-manager-left-the-company](https://github.com/kaushal-XD/Leetcode-Stuff/tree/master/1978-employees-whose-manager-left-the-company) |
 ## Breadth-First Search
 |  |
 | ------- |
