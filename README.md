@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/kaushal-XD/Leetcode-Stuff/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0072-edit-distance](https://github.com/kaushal-XD/Leetcode-Stuff/tree/master/0072-edit-distance) |
 | [1143-longest-common-subsequence](https://github.com/kaushal-XD/Leetcode-Stuff/tree/master/1143-longest-common-subsequence) |
+| [1736-latest-time-by-replacing-hidden-digits](https://github.com/kaushal-XD/Leetcode-Stuff/tree/master/1736-latest-time-by-replacing-hidden-digits) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/kaushal-XD/Leetcode-Stuff/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Prefix Sum
 |  |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0045-jump-game-ii](https://github.com/kaushal-XD/Leetcode-Stuff/tree/master/0045-jump-game-ii) |
+| [1736-latest-time-by-replacing-hidden-digits](https://github.com/kaushal-XD/Leetcode-Stuff/tree/master/1736-latest-time-by-replacing-hidden-digits) |
 ## Sliding Window
 |  |
 | ------- |
