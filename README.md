@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1301-number-of-paths-with-max-score](https://github.com/kaushal-XD/Leetcode-Stuff/tree/master/1301-number-of-paths-with-max-score) |
 | [1331-rank-transform-of-an-array](https://github.com/kaushal-XD/Leetcode-Stuff/tree/master/1331-rank-transform-of-an-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/kaushal-XD/Leetcode-Stuff/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/kaushal-XD/Leetcode-Stuff/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3731-find-missing-elements](https://github.com/kaushal-XD/Leetcode-Stuff/tree/master/3731-find-missing-elements) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/kaushal-XD/Leetcode-Stuff/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Dynamic Programming
@@ -117,4 +118,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0200-number-of-islands](https://github.com/kaushal-XD/Leetcode-Stuff/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/kaushal-XD/Leetcode-Stuff/tree/master/0695-max-area-of-island) |
+## Bit Manipulation
+|  |
+| ------- |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/kaushal-XD/Leetcode-Stuff/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 <!---LeetCode Topics End-->
