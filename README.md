@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1301-number-of-paths-with-max-score](https://github.com/kaushal-XD/Leetcode-Stuff/tree/master/1301-number-of-paths-with-max-score) |
 | [1331-rank-transform-of-an-array](https://github.com/kaushal-XD/Leetcode-Stuff/tree/master/1331-rank-transform-of-an-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/kaushal-XD/Leetcode-Stuff/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2109-adding-spaces-to-a-string](https://github.com/kaushal-XD/Leetcode-Stuff/tree/master/2109-adding-spaces-to-a-string) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/kaushal-XD/Leetcode-Stuff/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3731-find-missing-elements](https://github.com/kaushal-XD/Leetcode-Stuff/tree/master/3731-find-missing-elements) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/kaushal-XD/Leetcode-Stuff/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0072-edit-distance](https://github.com/kaushal-XD/Leetcode-Stuff/tree/master/0072-edit-distance) |
 | [1143-longest-common-subsequence](https://github.com/kaushal-XD/Leetcode-Stuff/tree/master/1143-longest-common-subsequence) |
 | [1736-latest-time-by-replacing-hidden-digits](https://github.com/kaushal-XD/Leetcode-Stuff/tree/master/1736-latest-time-by-replacing-hidden-digits) |
+| [2109-adding-spaces-to-a-string](https://github.com/kaushal-XD/Leetcode-Stuff/tree/master/2109-adding-spaces-to-a-string) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/kaushal-XD/Leetcode-Stuff/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Prefix Sum
 |  |
@@ -79,10 +81,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [2109-adding-spaces-to-a-string](https://github.com/kaushal-XD/Leetcode-Stuff/tree/master/2109-adding-spaces-to-a-string) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/kaushal-XD/Leetcode-Stuff/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Simulation
 |  |
 | ------- |
+| [2109-adding-spaces-to-a-string](https://github.com/kaushal-XD/Leetcode-Stuff/tree/master/2109-adding-spaces-to-a-string) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/kaushal-XD/Leetcode-Stuff/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Greedy
 |  |
