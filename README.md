@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0177-nth-highest-salary](https://github.com/kaushal-XD/Leetcode-Stuff/tree/master/0177-nth-highest-salary) |
 | [0178-rank-scores](https://github.com/kaushal-XD/Leetcode-Stuff/tree/master/0178-rank-scores) |
 | [0180-consecutive-numbers](https://github.com/kaushal-XD/Leetcode-Stuff/tree/master/0180-consecutive-numbers) |
+| [0184-department-highest-salary](https://github.com/kaushal-XD/Leetcode-Stuff/tree/master/0184-department-highest-salary) |
 | [0596-classes-with-at-least-5-students](https://github.com/kaushal-XD/Leetcode-Stuff/tree/master/0596-classes-with-at-least-5-students) |
 | [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/kaushal-XD/Leetcode-Stuff/tree/master/1581-customer-who-visited-but-did-not-make-any-transactions) |
 | [1757-recyclable-and-low-fat-products](https://github.com/kaushal-XD/Leetcode-Stuff/tree/master/1757-recyclable-and-low-fat-products) |
