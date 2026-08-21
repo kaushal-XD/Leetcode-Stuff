@@ -1,11 +1,11 @@
-# Write your MySQL query statement below
-select d.name as department, e.name as employee, e.salary as salary
-from employee e join department d
-on e.departmentid = d.id
-where 3 >= (
-    select count(distinct e2.salary )
-    from employee e2
-    where e2.salary >= e.salary and e.departmentid = e2.departmentid
+with temp as
+(
+    select d.name as 'Department' , e.name as 'Employee' , e.salary as 'Salary',
+    dense_rank() over(partition by e.departmentid order by e.salary desc) as trank
+    from employee e left join department d 
+    on e.departmentid = d.id
 )
-ORDER BY
-    Department, Salary DESC;
+
+select department , employee , salary 
+from temp 
+where trank <= 3
