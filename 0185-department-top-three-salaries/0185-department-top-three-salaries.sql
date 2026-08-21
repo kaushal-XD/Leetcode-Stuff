@@ -1,11 +1,12 @@
 with temp as
 (
-    select d.name as 'Department' , e.name as 'Employee' , e.salary as 'Salary',
-    dense_rank() over(partition by e.departmentid order by e.salary desc) as trank
-    from employee e left join department d 
-    on e.departmentid = d.id
+    select name , salary , departmentid, 
+    dense_rank() over(partition by departmentid order by salary desc)
+    as trank
+    from employee
 )
 
-select department , employee , salary 
-from temp 
+select d.name as department , t.name as employee , t.salary salary 
+from temp t left join department d 
+on t.departmentid = d.id
 where trank <= 3
