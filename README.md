@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/kaushal-XD/Leetcode-Stuff/tree/master/0200-number-of-islands) |
 | [0213-house-robber-ii](https://github.com/kaushal-XD/Leetcode-Stuff/tree/master/0213-house-robber-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/kaushal-XD/Leetcode-Stuff/tree/master/0417-pacific-atlantic-water-flow) |
+| [0435-non-overlapping-intervals](https://github.com/kaushal-XD/Leetcode-Stuff/tree/master/0435-non-overlapping-intervals) |
 | [0628-maximum-product-of-three-numbers](https://github.com/kaushal-XD/Leetcode-Stuff/tree/master/0628-maximum-product-of-three-numbers) |
 | [0695-max-area-of-island](https://github.com/kaushal-XD/Leetcode-Stuff/tree/master/0695-max-area-of-island) |
 | [0994-rotting-oranges](https://github.com/kaushal-XD/Leetcode-Stuff/tree/master/0994-rotting-oranges) |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0072-edit-distance](https://github.com/kaushal-XD/Leetcode-Stuff/tree/master/0072-edit-distance) |
 | [0198-house-robber](https://github.com/kaushal-XD/Leetcode-Stuff/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/kaushal-XD/Leetcode-Stuff/tree/master/0213-house-robber-ii) |
+| [0435-non-overlapping-intervals](https://github.com/kaushal-XD/Leetcode-Stuff/tree/master/0435-non-overlapping-intervals) |
 | [1143-longest-common-subsequence](https://github.com/kaushal-XD/Leetcode-Stuff/tree/master/1143-longest-common-subsequence) |
 | [1301-number-of-paths-with-max-score](https://github.com/kaushal-XD/Leetcode-Stuff/tree/master/1301-number-of-paths-with-max-score) |
 ## Matrix
@@ -71,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0435-non-overlapping-intervals](https://github.com/kaushal-XD/Leetcode-Stuff/tree/master/0435-non-overlapping-intervals) |
 | [0628-maximum-product-of-three-numbers](https://github.com/kaushal-XD/Leetcode-Stuff/tree/master/0628-maximum-product-of-three-numbers) |
 | [1331-rank-transform-of-an-array](https://github.com/kaushal-XD/Leetcode-Stuff/tree/master/1331-rank-transform-of-an-array) |
 | [3536-maximum-product-of-two-digits](https://github.com/kaushal-XD/Leetcode-Stuff/tree/master/3536-maximum-product-of-two-digits) |
@@ -96,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0045-jump-game-ii](https://github.com/kaushal-XD/Leetcode-Stuff/tree/master/0045-jump-game-ii) |
+| [0435-non-overlapping-intervals](https://github.com/kaushal-XD/Leetcode-Stuff/tree/master/0435-non-overlapping-intervals) |
 | [1736-latest-time-by-replacing-hidden-digits](https://github.com/kaushal-XD/Leetcode-Stuff/tree/master/1736-latest-time-by-replacing-hidden-digits) |
 ## Sliding Window
 |  |
