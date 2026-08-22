@@ -12,11 +12,9 @@ public:
                 count--;
                 i++;
             }
-            if (st.count(s[j]) == 0){
-                st.insert(s[j]);
-                count++;
-                ans = max(ans,count);
-            }
+            st.insert(s[j]);
+            count++;
+            ans = max(ans,count);
         }
         return ans;
     }
