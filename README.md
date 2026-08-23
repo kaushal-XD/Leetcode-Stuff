@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/kaushal-XD/Leetcode-Stuff/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/kaushal-XD/Leetcode-Stuff/tree/master/0213-house-robber-ii) |
 | [0435-non-overlapping-intervals](https://github.com/kaushal-XD/Leetcode-Stuff/tree/master/0435-non-overlapping-intervals) |
+| [0552-student-attendance-record-ii](https://github.com/kaushal-XD/Leetcode-Stuff/tree/master/0552-student-attendance-record-ii) |
 | [1143-longest-common-subsequence](https://github.com/kaushal-XD/Leetcode-Stuff/tree/master/1143-longest-common-subsequence) |
 | [1301-number-of-paths-with-max-score](https://github.com/kaushal-XD/Leetcode-Stuff/tree/master/1301-number-of-paths-with-max-score) |
 ## Matrix
