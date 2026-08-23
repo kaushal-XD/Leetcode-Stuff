@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/kaushal-XD/Leetcode-Stuff/tree/master/0005-longest-palindromic-substring) |
 | [0045-jump-game-ii](https://github.com/kaushal-XD/Leetcode-Stuff/tree/master/0045-jump-game-ii) |
 | [0072-edit-distance](https://github.com/kaushal-XD/Leetcode-Stuff/tree/master/0072-edit-distance) |
 | [0198-house-robber](https://github.com/kaushal-XD/Leetcode-Stuff/tree/master/0198-house-robber) |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/kaushal-XD/Leetcode-Stuff/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0005-longest-palindromic-substring](https://github.com/kaushal-XD/Leetcode-Stuff/tree/master/0005-longest-palindromic-substring) |
 | [0072-edit-distance](https://github.com/kaushal-XD/Leetcode-Stuff/tree/master/0072-edit-distance) |
 | [1143-longest-common-subsequence](https://github.com/kaushal-XD/Leetcode-Stuff/tree/master/1143-longest-common-subsequence) |
 | [1736-latest-time-by-replacing-hidden-digits](https://github.com/kaushal-XD/Leetcode-Stuff/tree/master/1736-latest-time-by-replacing-hidden-digits) |
@@ -88,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/kaushal-XD/Leetcode-Stuff/tree/master/0005-longest-palindromic-substring) |
 | [2109-adding-spaces-to-a-string](https://github.com/kaushal-XD/Leetcode-Stuff/tree/master/2109-adding-spaces-to-a-string) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/kaushal-XD/Leetcode-Stuff/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Simulation
@@ -142,4 +145,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/kaushal-XD/Leetcode-Stuff/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/kaushal-XD/Leetcode-Stuff/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
