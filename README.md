@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2109-adding-spaces-to-a-string](https://github.com/kaushal-XD/Leetcode-Stuff/tree/master/2109-adding-spaces-to-a-string) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/kaushal-XD/Leetcode-Stuff/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3731-find-missing-elements](https://github.com/kaushal-XD/Leetcode-Stuff/tree/master/3731-find-missing-elements) |
+| [3866-first-unique-even-element](https://github.com/kaushal-XD/Leetcode-Stuff/tree/master/3866-first-unique-even-element) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/kaushal-XD/Leetcode-Stuff/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Dynamic Programming
 |  |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/kaushal-XD/Leetcode-Stuff/tree/master/0003-longest-substring-without-repeating-characters) |
 | [1331-rank-transform-of-an-array](https://github.com/kaushal-XD/Leetcode-Stuff/tree/master/1331-rank-transform-of-an-array) |
 | [3731-find-missing-elements](https://github.com/kaushal-XD/Leetcode-Stuff/tree/master/3731-find-missing-elements) |
+| [3866-first-unique-even-element](https://github.com/kaushal-XD/Leetcode-Stuff/tree/master/3866-first-unique-even-element) |
 ## Sorting
 |  |
 | ------- |
@@ -150,4 +152,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/kaushal-XD/Leetcode-Stuff/tree/master/0005-longest-palindromic-substring) |
+## Counting
+|  |
+| ------- |
+| [3866-first-unique-even-element](https://github.com/kaushal-XD/Leetcode-Stuff/tree/master/3866-first-unique-even-element) |
 <!---LeetCode Topics End-->
