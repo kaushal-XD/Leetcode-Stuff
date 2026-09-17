@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0628-maximum-product-of-three-numbers](https://github.com/kaushal-XD/Leetcode-Stuff/tree/master/0628-maximum-product-of-three-numbers) |
+| [1922-count-good-numbers](https://github.com/kaushal-XD/Leetcode-Stuff/tree/master/1922-count-good-numbers) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/kaushal-XD/Leetcode-Stuff/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3536-maximum-product-of-two-digits](https://github.com/kaushal-XD/Leetcode-Stuff/tree/master/3536-maximum-product-of-two-digits) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/kaushal-XD/Leetcode-Stuff/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -156,4 +157,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3866-first-unique-even-element](https://github.com/kaushal-XD/Leetcode-Stuff/tree/master/3866-first-unique-even-element) |
+## Recursion
+|  |
+| ------- |
+| [1922-count-good-numbers](https://github.com/kaushal-XD/Leetcode-Stuff/tree/master/1922-count-good-numbers) |
 <!---LeetCode Topics End-->
