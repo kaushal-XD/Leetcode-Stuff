@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3731-find-missing-elements](https://github.com/kaushal-XD/Leetcode-Stuff/tree/master/3731-find-missing-elements) |
 | [3866-first-unique-even-element](https://github.com/kaushal-XD/Leetcode-Stuff/tree/master/3866-first-unique-even-element) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/kaushal-XD/Leetcode-Stuff/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+| [3896-minimum-operations-to-transform-array-into-alternating-prime](https://github.com/kaushal-XD/Leetcode-Stuff/tree/master/3896-minimum-operations-to-transform-array-into-alternating-prime) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3658-gcd-of-odd-and-even-sums](https://github.com/kaushal-XD/Leetcode-Stuff/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/kaushal-XD/Leetcode-Stuff/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/kaushal-XD/Leetcode-Stuff/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+| [3896-minimum-operations-to-transform-array-into-alternating-prime](https://github.com/kaushal-XD/Leetcode-Stuff/tree/master/3896-minimum-operations-to-transform-array-into-alternating-prime) |
 ## String
 |  |
 | ------- |
@@ -87,18 +89,21 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3536-maximum-product-of-two-digits](https://github.com/kaushal-XD/Leetcode-Stuff/tree/master/3536-maximum-product-of-two-digits) |
 | [3731-find-missing-elements](https://github.com/kaushal-XD/Leetcode-Stuff/tree/master/3731-find-missing-elements) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/kaushal-XD/Leetcode-Stuff/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+| [3896-minimum-operations-to-transform-array-into-alternating-prime](https://github.com/kaushal-XD/Leetcode-Stuff/tree/master/3896-minimum-operations-to-transform-array-into-alternating-prime) |
 ## Number Theory
 |  |
 | ------- |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/kaushal-XD/Leetcode-Stuff/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/kaushal-XD/Leetcode-Stuff/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/kaushal-XD/Leetcode-Stuff/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+| [3896-minimum-operations-to-transform-array-into-alternating-prime](https://github.com/kaushal-XD/Leetcode-Stuff/tree/master/3896-minimum-operations-to-transform-array-into-alternating-prime) |
 ## Two Pointers
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/kaushal-XD/Leetcode-Stuff/tree/master/0005-longest-palindromic-substring) |
 | [2109-adding-spaces-to-a-string](https://github.com/kaushal-XD/Leetcode-Stuff/tree/master/2109-adding-spaces-to-a-string) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/kaushal-XD/Leetcode-Stuff/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+| [3896-minimum-operations-to-transform-array-into-alternating-prime](https://github.com/kaushal-XD/Leetcode-Stuff/tree/master/3896-minimum-operations-to-transform-array-into-alternating-prime) |
 ## Simulation
 |  |
 | ------- |
@@ -164,4 +169,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1922-count-good-numbers](https://github.com/kaushal-XD/Leetcode-Stuff/tree/master/1922-count-good-numbers) |
+## Binary Search
+|  |
+| ------- |
+| [3896-minimum-operations-to-transform-array-into-alternating-prime](https://github.com/kaushal-XD/Leetcode-Stuff/tree/master/3896-minimum-operations-to-transform-array-into-alternating-prime) |
 <!---LeetCode Topics End-->
