@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/kaushal-XD/Leetcode-Stuff/tree/master/0435-non-overlapping-intervals) |
 | [0628-maximum-product-of-three-numbers](https://github.com/kaushal-XD/Leetcode-Stuff/tree/master/0628-maximum-product-of-three-numbers) |
 | [0695-max-area-of-island](https://github.com/kaushal-XD/Leetcode-Stuff/tree/master/0695-max-area-of-island) |
+| [0941-valid-mountain-array](https://github.com/kaushal-XD/Leetcode-Stuff/tree/master/0941-valid-mountain-array) |
 | [0994-rotting-oranges](https://github.com/kaushal-XD/Leetcode-Stuff/tree/master/0994-rotting-oranges) |
 | [1301-number-of-paths-with-max-score](https://github.com/kaushal-XD/Leetcode-Stuff/tree/master/1301-number-of-paths-with-max-score) |
 | [1331-rank-transform-of-an-array](https://github.com/kaushal-XD/Leetcode-Stuff/tree/master/1331-rank-transform-of-an-array) |
