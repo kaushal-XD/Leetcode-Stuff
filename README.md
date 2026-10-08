@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/kaushal-XD/Leetcode-Stuff/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/kaushal-XD/Leetcode-Stuff/tree/master/0628-maximum-product-of-three-numbers) |
 | [0695-max-area-of-island](https://github.com/kaushal-XD/Leetcode-Stuff/tree/master/0695-max-area-of-island) |
+| [0705-design-hashset](https://github.com/kaushal-XD/Leetcode-Stuff/tree/master/0705-design-hashset) |
 | [0941-valid-mountain-array](https://github.com/kaushal-XD/Leetcode-Stuff/tree/master/0941-valid-mountain-array) |
 | [0994-rotting-oranges](https://github.com/kaushal-XD/Leetcode-Stuff/tree/master/0994-rotting-oranges) |
 | [1301-number-of-paths-with-max-score](https://github.com/kaushal-XD/Leetcode-Stuff/tree/master/1301-number-of-paths-with-max-score) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/kaushal-XD/Leetcode-Stuff/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/kaushal-XD/Leetcode-Stuff/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0705-design-hashset](https://github.com/kaushal-XD/Leetcode-Stuff/tree/master/0705-design-hashset) |
 | [1331-rank-transform-of-an-array](https://github.com/kaushal-XD/Leetcode-Stuff/tree/master/1331-rank-transform-of-an-array) |
 | [3731-find-missing-elements](https://github.com/kaushal-XD/Leetcode-Stuff/tree/master/3731-find-missing-elements) |
 | [3866-first-unique-even-element](https://github.com/kaushal-XD/Leetcode-Stuff/tree/master/3866-first-unique-even-element) |
@@ -178,4 +180,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3896-minimum-operations-to-transform-array-into-alternating-prime](https://github.com/kaushal-XD/Leetcode-Stuff/tree/master/3896-minimum-operations-to-transform-array-into-alternating-prime) |
+## Linked List
+|  |
+| ------- |
+| [0705-design-hashset](https://github.com/kaushal-XD/Leetcode-Stuff/tree/master/0705-design-hashset) |
+## Design
+|  |
+| ------- |
+| [0705-design-hashset](https://github.com/kaushal-XD/Leetcode-Stuff/tree/master/0705-design-hashset) |
+## Hash Function
+|  |
+| ------- |
+| [0705-design-hashset](https://github.com/kaushal-XD/Leetcode-Stuff/tree/master/0705-design-hashset) |
 <!---LeetCode Topics End-->
