@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/kaushal-XD/Leetcode-Stuff/tree/master/1331-rank-transform-of-an-array) |
 | [1827-minimum-operations-to-make-the-array-increasing](https://github.com/kaushal-XD/Leetcode-Stuff/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/kaushal-XD/Leetcode-Stuff/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2090-k-radius-subarray-averages](https://github.com/kaushal-XD/Leetcode-Stuff/tree/master/2090-k-radius-subarray-averages) |
 | [2109-adding-spaces-to-a-string](https://github.com/kaushal-XD/Leetcode-Stuff/tree/master/2109-adding-spaces-to-a-string) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/kaushal-XD/Leetcode-Stuff/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3731-find-missing-elements](https://github.com/kaushal-XD/Leetcode-Stuff/tree/master/3731-find-missing-elements) |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/kaushal-XD/Leetcode-Stuff/tree/master/0003-longest-substring-without-repeating-characters) |
+| [2090-k-radius-subarray-averages](https://github.com/kaushal-XD/Leetcode-Stuff/tree/master/2090-k-radius-subarray-averages) |
 ## Database
 |  |
 | ------- |
