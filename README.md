@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/kaushal-XD/Leetcode-Stuff/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0705-design-hashset](https://github.com/kaushal-XD/Leetcode-Stuff/tree/master/0705-design-hashset) |
 | [1331-rank-transform-of-an-array](https://github.com/kaushal-XD/Leetcode-Stuff/tree/master/1331-rank-transform-of-an-array) |
+| [2526-find-consecutive-integers-from-a-data-stream](https://github.com/kaushal-XD/Leetcode-Stuff/tree/master/2526-find-consecutive-integers-from-a-data-stream) |
 | [3731-find-missing-elements](https://github.com/kaushal-XD/Leetcode-Stuff/tree/master/3731-find-missing-elements) |
 | [3866-first-unique-even-element](https://github.com/kaushal-XD/Leetcode-Stuff/tree/master/3866-first-unique-even-element) |
 ## Sorting
@@ -171,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [2526-find-consecutive-integers-from-a-data-stream](https://github.com/kaushal-XD/Leetcode-Stuff/tree/master/2526-find-consecutive-integers-from-a-data-stream) |
 | [3866-first-unique-even-element](https://github.com/kaushal-XD/Leetcode-Stuff/tree/master/3866-first-unique-even-element) |
 ## Recursion
 |  |
@@ -188,8 +190,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0705-design-hashset](https://github.com/kaushal-XD/Leetcode-Stuff/tree/master/0705-design-hashset) |
+| [2526-find-consecutive-integers-from-a-data-stream](https://github.com/kaushal-XD/Leetcode-Stuff/tree/master/2526-find-consecutive-integers-from-a-data-stream) |
 ## Hash Function
 |  |
 | ------- |
 | [0705-design-hashset](https://github.com/kaushal-XD/Leetcode-Stuff/tree/master/0705-design-hashset) |
+## Queue
+|  |
+| ------- |
+| [2526-find-consecutive-integers-from-a-data-stream](https://github.com/kaushal-XD/Leetcode-Stuff/tree/master/2526-find-consecutive-integers-from-a-data-stream) |
+## Data Stream
+|  |
+| ------- |
+| [2526-find-consecutive-integers-from-a-data-stream](https://github.com/kaushal-XD/Leetcode-Stuff/tree/master/2526-find-consecutive-integers-from-a-data-stream) |
 <!---LeetCode Topics End-->
